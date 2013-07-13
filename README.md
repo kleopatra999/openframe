@@ -1,6 +1,6 @@
 ![logo](http://code.google.com/p/openframe/logo?cct=1329042490&noddy=get.png)
 
-openFrame is a fully OOP MTA:SA framework, scripted in Moonscript and ready to be built wit meta.py.
+openFrame is a fully OOP MTA:SA framework, scripted in Moonscript and ready to be built with meta.py.
 It allows you to make your scripts cleaner and easier to use.
 Originally inspired by GUIClasses, the original form of classes is easy to learn and use.
 It uses advanced features of Lua and extends its functionality.
